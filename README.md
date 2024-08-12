@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **MERN and Laravel**
 
-- 📫 How to reach me **gunarathnaasirimahesh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
