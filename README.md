@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Knowledge Share Platform**
 
-- 🌱 I’m currently learning **MERN and Laravel**
+- 🌱 I’m currently learning **MERN Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
