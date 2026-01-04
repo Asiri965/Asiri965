@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiri965&label=Profile%20views&color=0e75b6&style=flat" alt="asiri965" /> </p>
 
-- 🔭 I’m currently working on **Knowledge Share Platform**
+- 🔭 I’m currently working on **Instutte Management System (Laravel)**
 
 - 🌱 I’m currently learning **MERN Stack**
 
